@@ -1,7 +1,7 @@
 
 # Amazon Clone Project
 
-Welcome to the Amazon Clone project! This project is an HTML and CSS implementation of a simplified version of the Amazon website.
+Welcome to the Amazon Clone project! This project is a HTML and CSS implementation of a simplified version of the Amazon website.
 
 
 ## Features
